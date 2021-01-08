@@ -1,9 +1,6 @@
 # Email_Bomber
-
 #BiRi_B@B@
-
 #THBD
-
 #Only For Educational Purpose.
 
 
@@ -17,7 +14,7 @@ $ apt install python2 python git -y
 $  pip2 install requests mechanize
 
 
-$  https://github.com/Mahfuz-THBD/Email_Bomber
+$  git clone https://github.com/Mahfuz-THBD/Email_Bomber
 
 $ cd Email_Bomber 
 
